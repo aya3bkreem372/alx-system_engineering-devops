@@ -1,1 +1,1 @@
-readme for shell per
+readme for permission
